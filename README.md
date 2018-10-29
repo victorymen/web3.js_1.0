@@ -23,8 +23,7 @@ web3.js是一个库集合，允许您使用HTTP或IPC连接与本地或远程以
   * [json](https://web3js.readthedocs.io/en/1.0/glossary.html#json-interface) 接口
 
 API参考
-
-*  * [Web3](https://web3js.readthedocs.io/en/1.0/web3.html)
+   ** [Web3](https://web3js.readthedocs.io/en/1.0/web3.html)
     * [Web3.modules](https://web3js.readthedocs.io/en/1.0/web3.html#web3-modules)
     * [web3 object](https://web3js.readthedocs.io/en/1.0/web3.html#web3-object)
     * [version](https://web3js.readthedocs.io/en/1.0/web3.html#version)
